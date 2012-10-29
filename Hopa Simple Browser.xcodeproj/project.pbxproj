@@ -13,6 +13,7 @@
 		D449496C163AD519006330AD /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = D449496A163AD519006330AD /* Credits.rtf */; };
 		D449496F163AD519006330AD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D449496E163AD519006330AD /* AppDelegate.m */; };
 		D4494972163AD519006330AD /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D4494970163AD519006330AD /* MainMenu.xib */; };
+		D4494979163AD783006330AD /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4494978163AD783006330AD /* WebKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		D449496D163AD519006330AD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D449496E163AD519006330AD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		D4494971163AD519006330AD /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		D4494978163AD783006330AD /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +38,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4494979163AD783006330AD /* WebKit.framework in Frameworks */,
 				D449495C163AD519006330AD /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -46,6 +49,7 @@
 		D449494C163AD519006330AD = {
 			isa = PBXGroup;
 			children = (
+				D4494978163AD783006330AD /* WebKit.framework */,
 				D4494961163AD519006330AD /* Hopa Simple Browser */,
 				D449495A163AD519006330AD /* Frameworks */,
 				D4494958163AD519006330AD /* Products */,
@@ -293,6 +297,7 @@
 				D4494977163AD519006330AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

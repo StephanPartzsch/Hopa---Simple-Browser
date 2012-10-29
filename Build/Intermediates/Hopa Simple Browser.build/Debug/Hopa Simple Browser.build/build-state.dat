@@ -1,0 +1,249 @@
+THopa Simple Browser
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Info.plist" "Hopa Simple Browser/Hopa Simple Browser-Info.plist"
+cProcessPCH "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/PrecompiledHeaders/Hopa Simple Browser-Prefix-gzasujraaphvuhfhvvreylfxgvrl/Hopa Simple Browser-Prefix.pch.pth" "Hopa Simple Browser/Hopa Simple Browser-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/AppDelegate.o" "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/main.o" "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/MacOS/Hopa Simple Browser" normal x86_64
+cCompileXIB "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/en.lproj/MainMenu.xib"
+cCpResource "Hopa Simple Browser/en.lproj/Credits.rtf" "Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/Credits.rtf"
+cCopyStringsFile "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/InfoPlist.strings" "Hopa Simple Browser/en.lproj/InfoPlist.strings"
+cTouch "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000004FF015DA00000000000000AA
+t1341134298
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005033888D00000000000025C8
+t1345554573
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c000000005033888D00000000000001E5
+t1345554573
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+c0000000050338894000000000008671C
+t1345554580
+s550684
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/AppDelegate.o
+t1351502901
+s31512
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/Hopa Simple Browser.LinkFileList
+c00000000508E4C330000000000000165
+t1351502899
+s357
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/main.o
+t1351502901
+s2952
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/PrecompiledHeaders/Hopa Simple Browser-Prefix-gzasujraaphvuhfhvvreylfxgvrl/Hopa Simple Browser-Prefix.pch.pth
+t1351502900
+s13735332
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app
+t1351503690
+s102
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Info.plist
+t1351503690
+s1469
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/MacOS/Hopa Simple Browser
+t1351502902
+s15716
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/PkgInfo
+t1351503690
+s8
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/Credits.rtf
+t1351502902
+s436
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1351502902
+s92
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/MainMenu.nib
+t1351502902
+s28831
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/icon.png
+t1351503690
+s72837
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/AppDelegate.h
+c00000000508AAEC10000000000000163
+t1351265985
+s355
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/AppDelegate.m
+c00000000508AB2830000000000000241
+t1351266947
+s577
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/Hopa Simple Browser-Prefix.pch
+c00000000508A9D9900000000000000A9
+t1351261593
+s169
+i<Cocoa/Cocoa.h>
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/en.lproj/Credits.rtf
+c00000000508A9D9900000000000001B4
+t1351261593
+s436
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/en.lproj/InfoPlist.strings
+c00000000508A9D99000000000000002D
+t1351261593
+s45
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/en.lproj/MainMenu.xib
+c00000000508AAE960000000000025244
+t1351265942
+s152132
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/main.m
+c00000000508A9D990000000000000103
+t1351261593
+s259
+
+N/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/icon.png
+c00000000508E4E920000000000011C85
+t1351503506
+s72837
+
+NHopa Simple Browser/Hopa Simple Browser-Info.plist
+c00000000508E4F390000000000000453
+t1351503673
+s1107
+
+CBuild AST from "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies98df1def863eb641^884825ef863eb641^---0#1#0#--18"Check dependencies36"7980DE63-1BE7-4E7D-83FD-D5C99F74E1BC-
+
+CCompileC "Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/AppDelegate.o" "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373195701.015387
+e373195701.237236
+r1
+xCompileC
+xBuild/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/AppDelegate.m3d0d04b5833eb641^4dbb3cb5833eb641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa%20Simple%20Browser/Hopa%20Simple%20Browser/AppDelegate.m0000000000000000^3800"CompileC "Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/AppDelegate.o" "Hopa Simple Browser/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-generated-files.hmap" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-own-target-headers.hmap" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-all-target-headers.hmap" -iquote "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-project-headers.hmap" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/DerivedSources/x86_64" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/DerivedSources" "-F/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug" -include "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/PrecompiledHeaders/Hopa Simple Browser-Prefix-gzasujraaphvuhfhvvreylfxgvrl/Hopa Simple Browser-Prefix.pch" -MMD -MT dependencies -MF "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/AppDelegate.d" --serialize-diagnostics "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/AppDelegate.dia" -c "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/AppDelegate.m" -o "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/AppDelegate.o"36"0EB47892-5D37-4724-BCBE-65DC1F580C3D-
+
+CCompileC "Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/main.o" "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373195701.015391
+e373195701.234228
+r1
+xCompileC
+xBuild/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/main.o
+x/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/main.m5f0d04b5833eb641^94f53bb5833eb641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa%20Simple%20Browser/Hopa%20Simple%20Browser/main.m0000000000000000^3758"CompileC "Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/main.o" "Hopa Simple Browser/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-generated-files.hmap" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-own-target-headers.hmap" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-all-target-headers.hmap" -iquote "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-project-headers.hmap" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/DerivedSources/x86_64" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/DerivedSources" "-F/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug" -include "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/PrecompiledHeaders/Hopa Simple Browser-Prefix-gzasujraaphvuhfhvvreylfxgvrl/Hopa Simple Browser-Prefix.pch" -MMD -MT dependencies -MF "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/main.dia" -c "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/main.m" -o "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/main.o"36"E172B5E4-74EC-4D96-982C-6D1F3CF18621-
+
+CCompileXIB "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/en.lproj/MainMenu.xib"
+s373195702.320126
+e373195702.536247
+r1
+xCompileXIB
+x/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compiling /Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/en.lproj/MainMenu.xib030552b6833eb641^524989b6833eb641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa%20Simple%20Browser/Hopa%20Simple%20Browser/en.lproj/MainMenu.xib0000000000000000^733"CompileXIB "Hopa Simple Browser/en.lproj/MainMenu.xib"    cd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/MainMenu.nib" "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/en.lproj/MainMenu.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"AB82EEBD-8D1A-4C52-8B4E-9101D4BC88BD-
+
+CCopyStringsFile "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/InfoPlist.strings" "Hopa Simple Browser/en.lproj/InfoPlist.strings"
+s373195702.320117
+e373195702.352657
+r1
+xCopyStringsFile
+x/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/InfoPlist.strings
+xHopa Simple Browser/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy Hopa Simple Browser/en.lproj/InfoPlist.stringsa30752b6833eb641^99475ab6833eb641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa%20Simple%20Browser/Hopa%20Simple%20Browser/en.lproj/InfoPlist.strings0000000000000000^520"CopyStringsFile "Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/InfoPlist.strings" "Hopa Simple Browser/en.lproj/InfoPlist.strings"    cd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj" -- "Hopa Simple Browser/en.lproj/InfoPlist.strings"36"6D212C73-F492-43D6-8679-C134C0186100-
+
+CCpResource "Hopa Simple Browser/en.lproj/Credits.rtf" "Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/Credits.rtf"
+s373195702.320111
+e373195702.351943
+r1
+xCpResource
+xHopa Simple Browser/en.lproj/Credits.rtf
+xBuild/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/Credits.rtffb0652b6833eb641^2a1b5ab6833eb641^---0#0#0#-19%DVTDocumentLocation2@176"file://localhost/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa%20Simple%20Browser/Build/Products/Debug/Hopa%20Simple%20Browser.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^584"CpResource "Hopa Simple Browser/en.lproj/Credits.rtf" "Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj/Credits.rtf"    cd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/en.lproj/Credits.rtf" "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/en.lproj"36"C1534D3F-5AE1-499F-8230-D378D2AAB5FD-
+
+CCpResource icon.png "Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/icon.png"
+s373196490.723072
+e373196490.725035
+r1
+xCpResource
+xicon.png
+xBuild/Products/Debug/Hopa Simple Browser.app/Contents/Resources/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/icon.pngaa2db9ca863eb641^7c9cb9ca863eb641^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa%20Simple%20Browser/Build/Products/Debug/Hopa%20Simple%20Browser.app/Contents/Resources/icon.png000000000080d041^497"CpResource icon.png "Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources/icon.png"    cd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/icon.png" "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Resources"36"E57783CF-7E77-4FD7-A4F6-A2225433B8B9-
+
+CLd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/MacOS/Hopa Simple Browser" normal x86_64
+s373195701.243931
+e373195702.312204
+r1
+xLd
+x/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/MacOS/Hopa Simple Browser
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Link /Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/MacOS/Hopa Simple Browserbe843eb5833eb641^ffec4fb6833eb641^---0#0#0#--1080"Ld "Build/Products/Debug/Hopa Simple Browser.app/Contents/MacOS/Hopa Simple Browser" normal x86_64    cd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug" "-F/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug" -filelist "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Objects-normal/x86_64/Hopa Simple Browser.LinkFileList" -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework WebKit -framework Cocoa -o "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/MacOS/Hopa Simple Browser"36"010B8CEE-553E-49E1-B3D9-A06D49065368-
+
+CProcessInfoPlistFile "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Info.plist" "Hopa Simple Browser/Hopa Simple Browser-Info.plist"
+s373196490.689720
+e373196490.693123
+r1
+xProcessInfoPlistFile
+x/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Info.plist
+xHopa Simple Browser/Hopa Simple Browser-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Process Hopa Simple Browser/Hopa Simple Browser-Info.plist4da0b0ca863eb641^c570b1ca863eb641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa%20Simple%20Browser/Hopa%20Simple%20Browser/Hopa%20Simple%20Browser-Info.plist0000000000000000^620"ProcessInfoPlistFile "Build/Products/Debug/Hopa Simple Browser.app/Contents/Info.plist" "Hopa Simple Browser/Hopa Simple Browser-Info.plist"    cd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser"    builtin-infoPlistUtility "Hopa Simple Browser/Hopa Simple Browser-Info.plist" -genpkginfo "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app/Contents/Info.plist"36"DBAAC616-E3B6-48F7-BBFD-5034D2E8E651-
+
+CProcessPCH "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Hopa Simple Browser/Index/PrecompiledHeaders/Hopa Simple Browser-Prefix-ciwcbiozlrfuzsegvmdglzorauej_ast/Hopa Simple Browser-Prefix.pch.pth" "Hopa Simple Browser/Hopa Simple Browser-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/PrecompiledHeaders/Hopa Simple Browser-Prefix-gzasujraaphvuhfhvvreylfxgvrl/Hopa Simple Browser-Prefix.pch.pth" "Hopa Simple Browser/Hopa Simple Browser-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373195699.790263
+e373195701.008682
+r1
+xProcessPCH
+x/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/PrecompiledHeaders/Hopa Simple Browser-Prefix-gzasujraaphvuhfhvvreylfxgvrl/Hopa Simple Browser-Prefix.pch.pth
+xHopa Simple Browser/Hopa Simple Browser-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile Hopa Simple Browser/Hopa Simple Browser-Prefix.pch3771cab3833eb641^eb3802b5833eb641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa%20Simple%20Browser/Hopa%20Simple%20Browser/Hopa%20Simple%20Browser-Prefix.pch0000000000000000^3698"ProcessPCH "Build/Intermediates/PrecompiledHeaders/Hopa Simple Browser-Prefix-gzasujraaphvuhfhvvreylfxgvrl/Hopa Simple Browser-Prefix.pch.pth" "Hopa Simple Browser/Hopa Simple Browser-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-generated-files.hmap" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-own-target-headers.hmap" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-all-target-headers.hmap" -iquote "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/Hopa Simple Browser-project-headers.hmap" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/DerivedSources/x86_64" "-I/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/Hopa Simple Browser.build/Debug/Hopa Simple Browser.build/DerivedSources" "-F/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug" --serialize-diagnostics "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/PrecompiledHeaders/Hopa Simple Browser-Prefix-gzasujraaphvuhfhvvreylfxgvrl/Hopa Simple Browser-Prefix.pch.dia" -c "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Hopa Simple Browser/Hopa Simple Browser-Prefix.pch" -o "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/PrecompiledHeaders/Hopa Simple Browser-Prefix-gzasujraaphvuhfhvvreylfxgvrl/Hopa Simple Browser-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Intermediates/PrecompiledHeaders/Hopa Simple Browser-Prefix-gzasujraaphvuhfhvvreylfxgvrl/Hopa Simple Browser-Prefix.pch.d"36"2AE4C72F-28D6-4B56-AFB6-DCF60AAA2E7C-
+
+CProcessPCH "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Built/Hopa Simple Browser/Index/PrecompiledHeaders/Hopa Simple Browser-Prefix-ciwcbiozlrfuzsegvmdglzorauej_ast/Hopa Simple Browser-Prefix.pch.pth" "Hopa Simple Browser/Hopa Simple Browser-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/DerivedData/Hopa Simple Browser/Index/PrecompiledHeaders/Hopa Simple Browser-Prefix-ciwcbiozlrfuzsegvmdglzorauej_ast/Hopa Simple Browser-Prefix.pch.pth" "Hopa Simple Browser/Hopa Simple Browser-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app"
+s373196490.733284
+e373196490.738650
+r1
+xTouch
+x/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Touch /Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.appfcc6bbca863eb641^3b18bdca863eb641^---0#0#0#--267"Touch "Build/Products/Debug/Hopa Simple Browser.app"    cd "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser"    /usr/bin/touch -c "/Users/Stephan/Coding/workspaces/xcode-dev/hopa/Hopa Simple Browser/Build/Products/Debug/Hopa Simple Browser.app"36"25236AAE-4E2B-430C-88DE-17F90790C8C2-
+

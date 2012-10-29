@@ -9,10 +9,17 @@
 #import "AppDelegate.h"
 
 @implementation AppDelegate
+@synthesize window;
+@synthesize webview;
+
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
-{
-    // Insert code here to initialize your application
+{   
+    NSUserDefaults *standardDefaults = [NSUserDefaults standardUserDefaults];
+    
+    NSString *urlPath = [standardDefaults stringForKey:@"url"];
+    
+    [[webview mainFrame] loadRequest:[NSURLRequest requestWithURL:[NSURL URLWithString:urlPath]]];
 }
 
 @end
