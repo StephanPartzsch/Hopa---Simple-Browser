@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D028E1AD163EF7020004A365 /* icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = D028E1AC163EF7020004A365 /* icon.icns */; };
 		D449495C163AD519006330AD /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D449495B163AD519006330AD /* Cocoa.framework */; };
 		D4494966163AD519006330AD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D4494964163AD519006330AD /* InfoPlist.strings */; };
 		D4494968163AD519006330AD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D4494967163AD519006330AD /* main.m */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D028E1AC163EF7020004A365 /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = icon.icns; sourceTree = "<group>"; };
 		D4494957163AD519006330AD /* Hopa Simple Browser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hopa Simple Browser.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D449495B163AD519006330AD /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		D449495E163AD519006330AD /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -46,6 +48,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D028E1A9163EF6EB0004A365 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				D028E1AB163EF6F40004A365 /* macos */,
+			);
+			name = resources;
+			sourceTree = "<group>";
+		};
+		D028E1AB163EF6F40004A365 /* macos */ = {
+			isa = PBXGroup;
+			children = (
+				D028E1AC163EF7020004A365 /* icon.icns */,
+			);
+			name = macos;
+			sourceTree = "<group>";
+		};
 		D449494C163AD519006330AD = {
 			isa = PBXGroup;
 			children = (
@@ -98,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				D4494963163AD519006330AD /* Hopa Simple Browser-Info.plist */,
+				D028E1A9163EF6EB0004A365 /* resources */,
 				D4494964163AD519006330AD /* InfoPlist.strings */,
 				D4494967163AD519006330AD /* main.m */,
 				D4494969163AD519006330AD /* Hopa Simple Browser-Prefix.pch */,
@@ -160,6 +179,7 @@
 				D4494966163AD519006330AD /* InfoPlist.strings in Resources */,
 				D449496C163AD519006330AD /* Credits.rtf in Resources */,
 				D4494972163AD519006330AD /* MainMenu.xib in Resources */,
+				D028E1AD163EF7020004A365 /* icon.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
