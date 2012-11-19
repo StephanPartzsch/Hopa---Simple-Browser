@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+
+<dictionary xmlns:xi="http://www.w3.org/2003/XInclude">
+    
+    <xi:include href="file:///System/Library/ScriptingDefinitions/CocoaStandard.sdef" xpointer="xpointer(/dictionary/suite)"/>
+    
+    <suite name="Hopa Simple Browser Scripting Suite" code="HSBS" description="Hopa Simple Browser application specific scripting facilities.">
+        
+        <class name="application" code="capp" description="hopa simple browser application class." inherits="application">
+        
+            <cocoa class="NSApplication"/>
+       
+            
+            <property name="browserUrl" code="Burl" type="text" access="rw" description="url to current open page" />
+            
+            <property name="windowWidth" code="wwid" description="width of window" type="integer" access="rw" />
+                
+            <property name="windowHeight" code="whei" description="height of window" type="integer" access="rw" />
+
+        </class>
+        
+    </suite>
+    
+</dictionary>

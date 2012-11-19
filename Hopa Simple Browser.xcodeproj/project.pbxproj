@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		D028E1AD163EF7020004A365 /* icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = D028E1AC163EF7020004A365 /* icon.icns */; };
+		D073E21C165438750006CF75 /* HopaBrowserModel.m in Sources */ = {isa = PBXBuildFile; fileRef = D073E21B165438750006CF75 /* HopaBrowserModel.m */; };
+		D0D196EB165440F200B5F39A /* Application.m in Sources */ = {isa = PBXBuildFile; fileRef = D0D196EA165440F200B5F39A /* Application.m */; };
+		D0D196F2165A23AE00B5F39A /* start-browser.scpt in Resources */ = {isa = PBXBuildFile; fileRef = D0D196F1165A23AE00B5F39A /* start-browser.scpt */; };
+		D0F98DD81651994500447021 /* HopaSimpleBrowser.sdef in Resources */ = {isa = PBXBuildFile; fileRef = D0F98DD71651994500447021 /* HopaSimpleBrowser.sdef */; };
 		D449495C163AD519006330AD /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D449495B163AD519006330AD /* Cocoa.framework */; };
 		D4494966163AD519006330AD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D4494964163AD519006330AD /* InfoPlist.strings */; };
 		D4494968163AD519006330AD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D4494967163AD519006330AD /* main.m */; };
@@ -19,6 +23,12 @@
 
 /* Begin PBXFileReference section */
 		D028E1AC163EF7020004A365 /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = icon.icns; sourceTree = "<group>"; };
+		D073E21A165438750006CF75 /* HopaBrowserModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HopaBrowserModel.h; path = "Hopa Simple Browser/HopaBrowserModel.h"; sourceTree = "<group>"; };
+		D073E21B165438750006CF75 /* HopaBrowserModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HopaBrowserModel.m; path = "Hopa Simple Browser/HopaBrowserModel.m"; sourceTree = "<group>"; };
+		D0D196E9165440F200B5F39A /* Application.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Application.h; path = "Hopa Simple Browser/Application.h"; sourceTree = "<group>"; };
+		D0D196EA165440F200B5F39A /* Application.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Application.m; path = "Hopa Simple Browser/Application.m"; sourceTree = "<group>"; };
+		D0D196F1165A23AE00B5F39A /* start-browser.scpt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "start-browser.scpt"; sourceTree = "<group>"; };
+		D0F98DD71651994500447021 /* HopaSimpleBrowser.sdef */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = HopaSimpleBrowser.sdef; sourceTree = "<group>"; };
 		D4494957163AD519006330AD /* Hopa Simple Browser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hopa Simple Browser.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D449495B163AD519006330AD /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		D449495E163AD519006330AD /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -29,8 +39,8 @@
 		D4494967163AD519006330AD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D4494969163AD519006330AD /* Hopa Simple Browser-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Hopa Simple Browser-Prefix.pch"; sourceTree = "<group>"; };
 		D449496B163AD519006330AD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		D449496D163AD519006330AD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		D449496E163AD519006330AD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		D449496D163AD519006330AD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "Hopa Simple Browser/AppDelegate.h"; sourceTree = "<group>"; };
+		D449496E163AD519006330AD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = "Hopa Simple Browser/AppDelegate.m"; sourceTree = "<group>"; };
 		D4494971163AD519006330AD /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		D4494978163AD783006330AD /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -64,11 +74,24 @@
 			name = macos;
 			sourceTree = "<group>";
 		};
+		D0F98DD5165196E700447021 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				D449496D163AD519006330AD /* AppDelegate.h */,
+				D449496E163AD519006330AD /* AppDelegate.m */,
+				D073E21A165438750006CF75 /* HopaBrowserModel.h */,
+				D073E21B165438750006CF75 /* HopaBrowserModel.m */,
+				D0D196E9165440F200B5F39A /* Application.h */,
+				D0D196EA165440F200B5F39A /* Application.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
 		D449494C163AD519006330AD = {
 			isa = PBXGroup;
 			children = (
-				D4494978163AD783006330AD /* WebKit.framework */,
-				D4494961163AD519006330AD /* Hopa Simple Browser */,
+				D0F98DD5165196E700447021 /* Classes */,
+				D4494962163AD519006330AD /* Supporting Files */,
 				D449495A163AD519006330AD /* Frameworks */,
 				D4494958163AD519006330AD /* Products */,
 			);
@@ -86,6 +109,7 @@
 			isa = PBXGroup;
 			children = (
 				D449495B163AD519006330AD /* Cocoa.framework */,
+				D4494978163AD783006330AD /* WebKit.framework */,
 				D449495D163AD519006330AD /* Other Frameworks */,
 			);
 			name = Frameworks;
@@ -101,28 +125,21 @@
 			name = "Other Frameworks";
 			sourceTree = "<group>";
 		};
-		D4494961163AD519006330AD /* Hopa Simple Browser */ = {
-			isa = PBXGroup;
-			children = (
-				D449496D163AD519006330AD /* AppDelegate.h */,
-				D449496E163AD519006330AD /* AppDelegate.m */,
-				D4494970163AD519006330AD /* MainMenu.xib */,
-				D4494962163AD519006330AD /* Supporting Files */,
-			);
-			path = "Hopa Simple Browser";
-			sourceTree = "<group>";
-		};
 		D4494962163AD519006330AD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D0D196F1165A23AE00B5F39A /* start-browser.scpt */,
+				D4494970163AD519006330AD /* MainMenu.xib */,
 				D4494963163AD519006330AD /* Hopa Simple Browser-Info.plist */,
 				D028E1A9163EF6EB0004A365 /* resources */,
 				D4494964163AD519006330AD /* InfoPlist.strings */,
 				D4494967163AD519006330AD /* main.m */,
 				D4494969163AD519006330AD /* Hopa Simple Browser-Prefix.pch */,
 				D449496A163AD519006330AD /* Credits.rtf */,
+				D0F98DD71651994500447021 /* HopaSimpleBrowser.sdef */,
 			);
 			name = "Supporting Files";
+			path = "Hopa Simple Browser";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -180,6 +197,8 @@
 				D449496C163AD519006330AD /* Credits.rtf in Resources */,
 				D4494972163AD519006330AD /* MainMenu.xib in Resources */,
 				D028E1AD163EF7020004A365 /* icon.icns in Resources */,
+				D0F98DD81651994500447021 /* HopaSimpleBrowser.sdef in Resources */,
+				D0D196F2165A23AE00B5F39A /* start-browser.scpt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -192,6 +211,8 @@
 			files = (
 				D4494968163AD519006330AD /* main.m in Sources */,
 				D449496F163AD519006330AD /* AppDelegate.m in Sources */,
+				D073E21C165438750006CF75 /* HopaBrowserModel.m in Sources */,
+				D0D196EB165440F200B5F39A /* Application.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +291,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				PRODUCT_NAME = "Hopa Simple Browser";
 				SDKROOT = macosx10.7;
 			};
 			name = Release;

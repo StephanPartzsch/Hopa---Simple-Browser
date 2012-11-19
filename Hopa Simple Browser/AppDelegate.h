@@ -9,9 +9,13 @@
 #import <Cocoa/Cocoa.h>
 #import <WebKit/WebKit.h>
 
+#import "HopaBrowserModel.h"
+
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 
 @property (assign) IBOutlet NSWindow *window;
 @property (assign) IBOutlet WebView *webview;
+
+@property (nonatomic, strong) HopaBrowserModel *browserModel;
 
 @end
